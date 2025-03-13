@@ -8,3 +8,9 @@ h1 {
   font-size: 100px;
   text-align: center;
 }
+
+p {
+  text-align: center;
+  color: lawngreen;
+  font-weight: bolder;
+}
