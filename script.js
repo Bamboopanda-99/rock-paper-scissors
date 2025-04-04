@@ -50,6 +50,7 @@ function getPlayerChoice() {
 function game() {
   let scorePlayer = 0;
   let scoreComputer = 0;
+  let score =0;
 
   console.log("Welcome!");
   for (let i = 0; i < 5; i++) {
